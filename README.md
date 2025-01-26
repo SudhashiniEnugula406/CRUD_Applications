@@ -21,4 +21,7 @@ This application demonstrates the basic operations of Create, Read, Update, and 
    cd CRUD_Applications
 # Technologies Used
 React: A JavaScript library for building user interfaces.
+
+
+
 JSON Server: Provides a full fake REST API for testing and prototyping.
