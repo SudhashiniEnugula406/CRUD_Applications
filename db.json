@@ -1,0 +1,28 @@
+{
+  "user": [
+    {
+      "id": "0919",
+      "name": "veeru",
+      "email": "veeru456@gmail.com",
+      "phone": "2342356784"
+    },
+    {
+      "id": "8a7c",
+      "name": "vara",
+      "email": "vara2233@gmail.com",
+      "phone": "9390409824"
+    },
+    {
+      "id": 1,
+      "name": "sami",
+      "email": "sai26@gmail.com",
+      "phone": "7877699877"
+    },
+    {
+      "id": 1,
+      "name": "sud",
+      "email": "sai26@gmail.com",
+      "phone": "7877699877"
+    }
+  ]
+}
